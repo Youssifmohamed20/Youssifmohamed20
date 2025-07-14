@@ -14,7 +14,7 @@
 I’m a passionate **AI Developer** who loves solving real-world problems using cutting-edge technologies.
 
 🎓 I hold certifications from:  
-- 🏢 [Machify](https://machify.com/)  
+- 🏢 [Machinfy](https://machinfy.com/)  
 - 🎓 [ITI - Information Technology Institute](https://iti.gov.eg)  
 - 🏫 [NTI - National Telecommunication Institute](https://www.nti.sci.eg/)
 
